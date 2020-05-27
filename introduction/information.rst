@@ -42,6 +42,7 @@ Community sites
 - https://www.dashspain.org
 - http://www.dashhaiti.com
 - http://thedashbrain.com
+- https://www.dash-embassy.org
 
 Forums
 ------
